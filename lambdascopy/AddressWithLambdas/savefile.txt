@@ -1,0 +1,7 @@
+tai,nguyen,21 street,Minneapolis,MN,55122
+peter,nguyen,21 jump street,Minneapolis,MN,675888
+string,nguyen,22 slow street,Saint Paul,MN,55555
+shady,slim,23 high street,Seattle,WA,55555
+mary,blonde,24 middle street,Seattle,WA,55122
+arrow,silver,25 no street,Chicago,IL,55555
+Chet,Kuhn,4780 Miller Ave.,WBL,MN,55110
