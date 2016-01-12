@@ -1,0 +1,2 @@
+<OrderNumber>::<customerName>::<state>::<taxRate>::<productType>::<area>::<costPerSqFt>::<laborCostPerSqFt>
+::<materialCost>::<laborCost>::<tax>::<total>

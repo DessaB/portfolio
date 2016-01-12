@@ -1,0 +1,5 @@
+Tues - Class Diagrams. Planning. Start Order and OrderBook classes.
+Wed - Finish Order and OrderBook classes. Tested. Start add method.
+Thurs - Complete Controller. Start FileIO. edit and remove methods.
+Fri - Complete FileIO.
+Mon - Testing/Polishing
